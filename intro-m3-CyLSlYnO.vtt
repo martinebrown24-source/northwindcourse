@@ -1,0 +1,721 @@
+WEBVTT
+
+1
+00:00:00.100 --> 00:00:02.033
+welcome to the explainer so
+
+2
+00:00:02.033 --> 00:00:03.066
+you're in your first week
+
+3
+00:00:03.066 --> 00:00:04.600
+getting settled into the new role
+
+4
+00:00:04.666 --> 00:00:06.366
+and you've probably already noticed that
+
+5
+00:00:06.366 --> 00:00:08.900
+copilot is this incredibly powerful tool
+
+6
+00:00:08.966 --> 00:00:10.966
+it's fantastic for streamlining your day
+
+7
+00:00:11.066 --> 00:00:12.766
+but you might have also hit a wall
+
+8
+00:00:12.766 --> 00:00:15.333
+where it just didn't give you exactly what you wanted
+
+9
+00:00:15.500 --> 00:00:17.600
+honestly that is completely normal
+
+10
+00:00:17.866 --> 00:00:19.366
+today we're gonna look at a simple
+
+11
+00:00:19.366 --> 00:00:22.066
+matter of fact way to break down why that happens
+
+12
+00:00:22.100 --> 00:00:23.766
+and I'll show you a foolproof framework
+
+13
+00:00:23.766 --> 00:00:25.766
+to make sure you get exactly what you need
+
+14
+00:00:25.800 --> 00:00:27.200
+it's all about making your onboarding
+
+15
+00:00:27.200 --> 00:00:29.100
+and daily workflow that much smoother
+
+16
+00:00:29.600 --> 00:00:30.833
+we've all been there right
+
+17
+00:00:30.833 --> 00:00:31.666
+you're rushing
+
+18
+00:00:31.666 --> 00:00:33.666
+trying to balance a ton of new information
+
+19
+00:00:33.666 --> 00:00:36.000
+and you just type something super vague like
+
+20
+00:00:36.000 --> 00:00:37.066
+make this better
+
+21
+00:00:37.166 --> 00:00:39.566
+and you get back something completely unhelpful
+
+22
+00:00:39.566 --> 00:00:41.166
+or just really generic
+
+23
+00:00:41.400 --> 00:00:43.466
+it's so easy to see that and think well
+
+24
+00:00:43.466 --> 00:00:46.400
+the tool is flawed or it just doesn't get my work yet
+
+25
+00:00:46.466 --> 00:00:47.500
+but the reality
+
+26
+00:00:47.500 --> 00:00:50.800
+a command like make this better is just an empty prompt
+
+27
+00:00:50.900 --> 00:00:53.366
+it literally gives the AI nothing to work from
+
+28
+00:00:53.366 --> 00:00:55.966
+no direction and absolutely no boundaries
+
+29
+00:00:56.500 --> 00:00:59.100
+co pilot is only as specific as you are
+
+30
+00:00:59.233 --> 00:01:01.166
+think of it like a highly capable assistant
+
+31
+00:01:01.166 --> 00:01:03.500
+who just started on the exact same day you did
+
+32
+00:01:03.500 --> 00:01:06.433
+it's eager to help but it doesn't know your preferences
+
+33
+00:01:06.433 --> 00:01:08.133
+it doesn't know your typical audience
+
+34
+00:01:08.200 --> 00:01:09.066
+and it definitely
+
+35
+00:01:09.066 --> 00:01:11.000
+doesn't know what you consider a job well done
+
+36
+00:01:11.000 --> 00:01:12.733
+unless you explicitly tell it
+
+37
+00:01:12.866 --> 00:01:14.200
+without specific instructions
+
+38
+00:01:14.200 --> 00:01:17.400
+it's flying blind and just guessing and guessing
+
+39
+00:01:17.500 --> 00:01:19.366
+that just wastes your valuable time
+
+40
+00:01:19.833 --> 00:01:21.766
+okay moving into section 1
+
+41
+00:01:21.766 --> 00:01:24.733
+the specificity problem and the four essential parts
+
+42
+00:01:25.033 --> 00:01:27.600
+so let's fix this specificity problem
+
+43
+00:01:27.700 --> 00:01:29.566
+we're gonna explore a really simple framework
+
+44
+00:01:29.566 --> 00:01:30.866
+that takes those vague commands
+
+45
+00:01:30.866 --> 00:01:33.000
+and turns them into highly effective prompts
+
+46
+00:01:33.300 --> 00:01:34.633
+a prompt that actually works
+
+47
+00:01:34.633 --> 00:01:36.966
+has four essential pieces of information
+
+48
+00:01:36.966 --> 00:01:37.633
+and hey
+
+49
+00:01:37.633 --> 00:01:38.033
+don't worry
+
+50
+00:01:38.033 --> 00:01:40.700
+these aren't rigid boxes on some complex form
+
+51
+00:01:40.766 --> 00:01:41.700
+they're just four elements
+
+52
+00:01:41.700 --> 00:01:43.166
+you're gonna naturally weave together
+
+53
+00:01:43.166 --> 00:01:45.733
+into a single sentence as part of your daily routine
+
+54
+00:01:46.000 --> 00:01:47.566
+those elements are your goal
+
+55
+00:01:47.633 --> 00:01:49.400
+your context your source
+
+56
+00:01:49.400 --> 00:01:50.700
+and your expectations
+
+57
+00:01:51.033 --> 00:01:53.466
+let's break them down and see how they save you time
+
+58
+00:01:53.900 --> 00:01:56.766
+first up is the goal this is the core action
+
+59
+00:01:56.833 --> 00:01:59.200
+basically what do you want co pilot to do
+
+60
+00:01:59.400 --> 00:02:01.766
+the best approach here is just to pick one verb
+
+61
+00:02:01.766 --> 00:02:03.300
+stated as plainly as possible
+
+62
+00:02:03.300 --> 00:02:06.033
+keep it super simple summarize draft
+
+63
+00:02:06.033 --> 00:02:07.300
+find compare
+
+64
+00:02:07.700 --> 00:02:08.266
+for example
+
+65
+00:02:08.266 --> 00:02:10.400
+if you're staring down a massive project thread
+
+66
+00:02:10.433 --> 00:02:13.233
+your goal might just be to summarize the key takeaways
+
+67
+00:02:13.233 --> 00:02:16.000
+boom by leading with a clear action verb
+
+68
+00:02:16.000 --> 00:02:18.366
+you instantly set co pilot on a focused path
+
+69
+00:02:18.366 --> 00:02:20.400
+with absolutely zero ambiguity
+
+70
+00:02:20.866 --> 00:02:23.700
+now let's add the next piece context
+
+71
+00:02:23.866 --> 00:02:26.866
+this is where you explain why you want this task done
+
+72
+00:02:26.866 --> 00:02:28.400
+and who it's actually for
+
+73
+00:02:28.633 --> 00:02:29.833
+think about it a summary
+
+74
+00:02:29.833 --> 00:02:31.766
+you're prepping for your manager's weekly update
+
+75
+00:02:31.766 --> 00:02:34.433
+needs a vastly different tone than a quick summary
+
+76
+00:02:34.433 --> 00:02:35.200
+you're just throwing into
+
+77
+00:02:35.200 --> 00:02:36.966
+your own personal notes right
+
+78
+00:02:37.400 --> 00:02:40.633
+adding context tells copilot exactly how formal to be
+
+79
+00:02:40.633 --> 00:02:43.233
+how concise to make it and most importantly
+
+80
+00:02:43.233 --> 00:02:44.833
+how much background info it should assume
+
+81
+00:02:44.833 --> 00:02:46.200
+the reader already knows
+
+82
+00:02:46.866 --> 00:02:48.966
+third is the source and I gotta tell you
+
+83
+00:02:48.966 --> 00:02:51.966
+this is a fantastic habit to build right from week one
+
+84
+00:02:52.066 --> 00:02:54.800
+the source is exactly what co pilot should look at
+
+85
+00:02:54.800 --> 00:02:57.833
+to get the job done you might say the Q2 report
+
+86
+00:02:57.833 --> 00:03:01.300
+or this spreadsheet or the email thread from facilities
+
+87
+00:03:01.433 --> 00:03:04.566
+this completely grounds the AI in your actual documents
+
+88
+00:03:04.866 --> 00:03:05.933
+if you don't give it a source
+
+89
+00:03:05.966 --> 00:03:08.166
+copilot kind of has to pull from general knowledge
+
+90
+00:03:08.166 --> 00:03:10.566
+or whatever random files happen to be open
+
+91
+00:03:10.833 --> 00:03:12.433
+naming your source builds a nice
+
+92
+00:03:12.433 --> 00:03:14.033
+sturdy fence around the information
+
+93
+00:03:14.033 --> 00:03:15.566
+guaranteeing you get accurate answers
+
+94
+00:03:15.566 --> 00:03:19.500
+without any AI guesswork finally we have expectations
+
+95
+00:03:19.833 --> 00:03:22.000
+this is basically defining the finish line
+
+96
+00:03:22.033 --> 00:03:24.700
+what does a good usable answer actually look like
+
+97
+00:03:24.700 --> 00:03:26.533
+when copilot hands it back to you
+
+98
+00:03:26.766 --> 00:03:28.966
+look you've already told it what to do
+
+99
+00:03:28.966 --> 00:03:30.866
+who it's for and what to read
+
+100
+00:03:30.966 --> 00:03:31.966
+now you just need to tell it
+
+101
+00:03:31.966 --> 00:03:34.100
+what shape the final product should take
+
+102
+00:03:34.100 --> 00:03:35.433
+so it's instantly useful
+
+103
+00:03:35.433 --> 00:03:37.133
+the second it pops up on your screen
+
+104
+00:03:37.633 --> 00:03:39.300
+to give you a concrete idea
+
+105
+00:03:39.300 --> 00:03:40.700
+setting good expectations
+
+106
+00:03:40.700 --> 00:03:43.100
+means asking for really specific formats
+
+107
+00:03:43.366 --> 00:03:46.000
+instead of just broadly saying give me the data
+
+108
+00:03:46.000 --> 00:03:47.866
+you'd ask for three bullet points
+
+109
+00:03:47.866 --> 00:03:50.566
+or a table sorted from highest to lowest
+
+110
+00:03:50.666 --> 00:03:53.766
+you can set a length like keep it under 200 words
+
+111
+00:03:53.766 --> 00:03:55.866
+or make sure specific metrics make the cut
+
+112
+00:03:55.866 --> 00:03:58.300
+like include the on time rate
+
+113
+00:03:58.600 --> 00:03:59.100
+honestly
+
+114
+00:03:59.100 --> 00:04:02.100
+this simple habit of stating your expectations up front
+
+115
+00:04:02.100 --> 00:04:03.566
+saves you from having to do all that
+
+116
+00:04:03.566 --> 00:04:05.133
+manual reformatting later
+
+117
+00:04:05.700 --> 00:04:07.300
+next up section 2
+
+118
+00:04:07.300 --> 00:04:09.400
+the logic of the prompt order
+
+119
+00:04:09.966 --> 00:04:11.200
+there's actually a brilliant
+
+120
+00:04:11.200 --> 00:04:13.100
+underlying logic to framing your prompts
+
+121
+00:04:13.100 --> 00:04:15.900
+exactly this way and it perfectly mirrors how we
+
+122
+00:04:15.900 --> 00:04:18.300
+naturally assign tasks to human co workers
+
+123
+00:04:18.466 --> 00:04:21.233
+check this out your goal and your context
+
+124
+00:04:21.233 --> 00:04:23.466
+pair up to tell copilot what job it's doing
+
+125
+00:04:23.466 --> 00:04:25.533
+and for whom that's the mission
+
+126
+00:04:25.866 --> 00:04:28.366
+then your source and your expectations pair up
+
+127
+00:04:28.366 --> 00:04:29.766
+to provide the raw materials
+
+128
+00:04:29.766 --> 00:04:31.400
+and the final delivery format
+
+129
+00:04:31.466 --> 00:04:33.266
+it's a completely sensible workflow
+
+130
+00:04:33.266 --> 00:04:35.000
+here's the mission here's the audience
+
+131
+00:04:35.033 --> 00:04:35.800
+here's the data
+
+132
+00:04:35.800 --> 00:04:38.066
+and here's exactly how I want it packaged
+
+133
+00:04:38.600 --> 00:04:40.700
+what happens when a piece is missing
+
+134
+00:04:41.100 --> 00:04:42.966
+look sometimes we rush our prompts
+
+135
+00:04:43.033 --> 00:04:44.100
+you're busy it happens
+
+136
+00:04:44.100 --> 00:04:45.500
+and that's completely okay
+
+137
+00:04:45.666 --> 00:04:47.000
+the cool thing about this framework
+
+138
+00:04:47.000 --> 00:04:49.566
+is that you can usually spot exactly what you forgot
+
+139
+00:04:49.566 --> 00:04:51.566
+just by looking at Copilot's response
+
+140
+00:04:51.866 --> 00:04:53.333
+if you leave out the source
+
+141
+00:04:53.433 --> 00:04:55.100
+you're gonna get vague generalities
+
+142
+00:04:55.100 --> 00:04:57.933
+instead of precise facts skip expectations
+
+143
+00:04:58.200 --> 00:04:59.800
+you'll probably get the right content
+
+144
+00:04:59.800 --> 00:05:01.400
+but in the totally wrong shape
+
+145
+00:05:01.400 --> 00:05:03.200
+like a massive wall of text
+
+146
+00:05:03.200 --> 00:05:05.066
+instead of three punchy bullet points
+
+147
+00:05:05.366 --> 00:05:06.900
+and if you skip context
+
+148
+00:05:06.900 --> 00:05:08.600
+it might be technically accurate
+
+149
+00:05:08.600 --> 00:05:10.066
+but the tone will just be way off
+
+150
+00:05:10.066 --> 00:05:11.200
+for your intended audience
+
+151
+00:05:11.300 --> 00:05:14.066
+basically the output always reflects the input
+
+152
+00:05:14.766 --> 00:05:16.166
+finally Section 4
+
+153
+00:05:16.166 --> 00:05:18.000
+from theory to muscle memory
+
+154
+00:05:18.800 --> 00:05:20.200
+now you might be thinking
+
+155
+00:05:20.200 --> 00:05:21.766
+this sounds like a lot of extra work
+
+156
+00:05:21.766 --> 00:05:23.866
+just to get things done but remember
+
+157
+00:05:23.866 --> 00:05:26.266
+we're moving from theory to practice here
+
+158
+00:05:26.266 --> 00:05:27.700
+the true beauty of this framework
+
+159
+00:05:27.700 --> 00:05:29.500
+is that these four parts goal
+
+160
+00:05:29.500 --> 00:05:30.600
+context source
+
+161
+00:05:30.600 --> 00:05:31.533
+and expectations
+
+162
+00:05:31.700 --> 00:05:34.666
+they just seamlessly blend into one natural sentence
+
+163
+00:05:34.766 --> 00:05:37.400
+you literally just type summarize this Q2 report
+
+164
+00:05:37.400 --> 00:05:39.366
+into three bullet points for my team update
+
+165
+00:05:39.400 --> 00:05:40.800
+that's one regular sentence
+
+166
+00:05:40.800 --> 00:05:43.300
+but it hits all four marks perfectly
+
+167
+00:05:43.466 --> 00:05:45.166
+once you consciously write a few of these
+
+168
+00:05:45.166 --> 00:05:46.266
+over your first few days
+
+169
+00:05:46.266 --> 00:05:48.166
+you stop thinking about the parts separately
+
+170
+00:05:48.400 --> 00:05:50.733
+good habits save time they don't add steps
+
+171
+00:05:50.800 --> 00:05:52.400
+it just becomes muscle memory
+
+172
+00:05:52.866 --> 00:05:55.833
+so you've seen the framework and the logic behind it
+
+173
+00:05:55.833 --> 00:05:58.766
+next you'll actually see this work in real co pilot
+
+174
+00:05:58.766 --> 00:06:00.100
+and then you'll have the chance to build
+
+175
+00:06:00.100 --> 00:06:01.900
+three structured prompts of your own
+
+176
+00:06:02.366 --> 00:06:04.100
+when you stop giving vague commands
+
+177
+00:06:04.100 --> 00:06:06.166
+and start giving specific instructions
+
+178
+00:06:06.266 --> 00:06:08.166
+the tool completely transforms
+
+179
+00:06:08.400 --> 00:06:10.100
+so what will you create
+
+180
+00:06:10.100 --> 00:06:12.866
+when copilot finally knows exactly what you want
